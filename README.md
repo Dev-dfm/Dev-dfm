@@ -33,6 +33,7 @@
 "><img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="left" width="40"></a>
 <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" align="left" width="40"></a>
 <a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="left" width="40"></a>
+<a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="40"></a> 
 <a href="https://www.adobe.com/de/products/xd.html"><img alt="Aodobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" align="left" width="40"></a>
 
   
