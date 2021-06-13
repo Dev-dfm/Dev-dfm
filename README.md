@@ -9,7 +9,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on my own WebApp
+- 🔭 I’m currently working on a fitness webapp
 - 🌱 I’m currently learning more about React and Tailwind
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
