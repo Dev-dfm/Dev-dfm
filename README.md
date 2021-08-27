@@ -26,7 +26,7 @@
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="40"></a>
 <a href="https://dart.dev/"><img alt="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" align="left" height="40"></a>
 <a href="https://flutter.dev/"><img alt="Flutter" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.e47c886ff7.svg" align="left" height="40"></a>
-<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" align="left" width="40"></a>
+<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" align="left" width="40"></a>
 <a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" width="40"></a>
 <a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="40"></a>
 <a href="http://expressjs.com/en/starter/installing.html"><img alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" align="left" width="40"></a>
