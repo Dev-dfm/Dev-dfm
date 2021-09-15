@@ -2,15 +2,15 @@
 
 <h1 align="center"> Hi there. Nice to see you 👋 I'm Daniel </h1>
 
-<h3 align="center"> I'm a Web Developer ⸜(ؔᶿധؔᶿ)⸝ </h2>
+<h3 align="center"> I'm a Software Developer ⸜(ؔᶿധؔᶿ)⸝ </h2>
 
 <br />
 <br />
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on [Fit2gether](https://github.com/Dev-dfm/Fit2gether) a social fitness app
-- 🌱 I’m currently learning more about [Flutter](https://flutter.dev/) and [Tailwind](https://tailwindcss.com/)
+- 🔭 I’m working at [phntm](https://github.com/Dev-dfm/Fit2gether)
+- 🌱 I’m currently learning more about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-flores-medina-8433a8199/) or [Xing](https://www.xing.com/profile/Daniel_FloresMedina/cv)
